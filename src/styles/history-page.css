@@ -1,0 +1,32 @@
+.history-section {
+  padding: 30px;
+  text-align: center;
+}
+
+.history-title {
+  background-color: #80d4ff;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.history-table {
+  margin: 20px auto;
+  width: 60%;
+  border-collapse: collapse;
+  font-size: 18px;
+}
+
+.history-table th {
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+.history-table td {
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 5px 0;
+}
