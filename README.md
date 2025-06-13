@@ -86,7 +86,6 @@ NaraBaca/
 │           └── ... (file CSS lain)
 ```
 
-
 # Instalasi dan Tes Lokal
 ## Instalasi Machine Learning Backend
 - Pastikan anda sudah punya python dengan versi diantara 3.8 sampai 3.12.
