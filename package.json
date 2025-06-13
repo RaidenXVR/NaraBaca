@@ -1,0 +1,29 @@
+{
+  "name": "node-postgres-api",
+  "version": "1.0.0",
+  "description": "A simple Node.js API for managing users with PostgreSQL",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "postgresql",
+    "api"
+  ],
+  "author": "Fikri Muhamad Zael",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.18.4",
+    "express-validator": "^7.2.1",
+    "pg": "^8.16.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
