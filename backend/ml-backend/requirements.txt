@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+tensorflow
+torch
+torchaudio
+numpy
+soundfile
+pydub
+python-multipart
